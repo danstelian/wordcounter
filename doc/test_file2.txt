@@ -1,0 +1,9 @@
+this is the first line
+this is the second line
+
+is this the forth line?
+how many words?
+lines, or characters...
+
+this is the 8th line
+we have 35 words, 9 lines and 180 characters.
